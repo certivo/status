@@ -17,6 +17,6 @@ status-website:
   introMessage: Availability and incident history for Certivo services. Checks run approximately every five minutes.
   navbar:
     - title: Status
-      href: /
+      href: /status/
     - title: Certivo
       href: https://app.certivo.com/
