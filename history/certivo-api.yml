@@ -1,7 +1,7 @@
 url: https://api-prod.certivo.com/api/v1/health
 status: up
 code: 200
-responseTime: 207
-lastUpdated: 2026-11-15T23:06:48.611Z
+responseTime: 250
+lastUpdated: 2026-11-16T23:06:10.915Z
 startTime: 2026-09-28T17:57:43.052Z
 generator: Upptime <https://github.com/upptime/upptime>
